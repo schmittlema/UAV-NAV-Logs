@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/log-obst/logfile-exp-0/model-0.cptk"
+all_model_checkpoint_paths: "/root/log-obst/logfile-exp-0/model-0.cptk"
