@@ -1,0 +1,3 @@
+model_checkpoint_path: "/root/log-obst/logfile-auto-world/model-final719.cptk"
+all_model_checkpoint_paths: "/root/log-obst/logfile-auto-world/model-0.cptk"
+all_model_checkpoint_paths: "/root/log-obst/logfile-auto-world/model-final719.cptk"
